@@ -3,7 +3,6 @@ Tic Tac Toe Player
 """
 
 import math
-from itertools import permutations
 
 X = "X"
 O = "O"
